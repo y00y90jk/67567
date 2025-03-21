@@ -214,7 +214,6 @@ if (mobileMenuToggle && mobileMenu) {
           });
         }
       });
-    });
     
     // Back to top button
     const backToTopBtn = document.getElementById('back-to-top');
